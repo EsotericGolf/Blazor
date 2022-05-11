@@ -1,4 +1,4 @@
-# [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) on Replit
+# [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) Template
 
 A framework for building interactive client-side web UI with .NET
 
